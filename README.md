@@ -1,7 +1,5 @@
 # How to - Deep Learning para identificação de imagens RGB
 
-[![NPM](https://img.shields.io/github/license/tvlemes/how-to-deep-learning-rgb)](https://github.com/tvlemes/how-to-deep-learning-rgb/blob/main/LICENSE)
-
 ![](/images/Video.gif)
 
 Este How to tem como objetivo ter uma referência para classificar imagens utilizando a biblioteca <i>KERAS</i> com <i>VGG16</i>, <i>VGG19</i>, 
